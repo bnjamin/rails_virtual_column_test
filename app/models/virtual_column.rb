@@ -1,0 +1,2 @@
+class VirtualColumn < ApplicationRecord
+end
